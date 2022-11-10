@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(243, 200, 6, 0.2);
+    background-color: rgb(255, 246, 127);
+    padding: 4px 8px;
+    margin: 10px 100px;
+    border-radius: 30px;
+}
+
+.container {
+    padding: 2px 16px;
+    font-size: large;
+}
+.container2 {
+    display: inline;
+}
+.container3  ol{
+    padding: 0;
+
+}
+button {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aqua;
+}
